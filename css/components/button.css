@@ -1,0 +1,30 @@
+.btn-white{
+  background-color: transparent;
+  border: 2px solid white;
+  padding: 15px 20px;
+  border-radius: 4px;
+  color: white;
+  font-weight: auto;
+  font-family: 'Roboto', sans-serif;
+  margin: 0 0 0 0%;
+}
+.btn-white:hover {
+  background-color: white;
+  color: #6a097d;
+  font-weight: bolder;
+}
+.btn-purple {
+  background-color: transparent;
+  border: 2px #6a097d;
+  padding: 15px 20px;
+  border-radius: 4px;
+  color: #6a097d;
+  font-weight: auto;
+  font-family: 'Roboto', sans-serif;
+}
+.btn-purple:hover {
+  background-color: black;
+  color: white;
+  font-weight: lighter;
+}
+
